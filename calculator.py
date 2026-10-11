@@ -7,8 +7,8 @@ def sub(a,b):
 
 
 
- def mult(a,b):
-    if a is none  && b is none:
+def mult(a,b):
+    if a is None  or b is None:
         return None
 
     else:
